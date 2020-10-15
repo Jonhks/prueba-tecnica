@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/prueba-tecnica/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/prueba-tecnica/static/js/main.4fb2f45e.chunk.js",
+    "main.js.map": "/prueba-tecnica/static/js/main.4fb2f45e.chunk.js.map",
+    "runtime-main.js": "/prueba-tecnica/static/js/runtime-main.3e157429.js",
+    "runtime-main.js.map": "/prueba-tecnica/static/js/runtime-main.3e157429.js.map",
+    "static/css/2.3cf5d70f.chunk.css": "/prueba-tecnica/static/css/2.3cf5d70f.chunk.css",
+    "static/js/2.8ddaa8b2.chunk.js": "/prueba-tecnica/static/js/2.8ddaa8b2.chunk.js",
+    "static/js/2.8ddaa8b2.chunk.js.map": "/prueba-tecnica/static/js/2.8ddaa8b2.chunk.js.map",
+    "index.html": "/prueba-tecnica/index.html",
+    "precache-manifest.54d6a0f570169fb281e5f6fae5f0bacd.js": "/prueba-tecnica/precache-manifest.54d6a0f570169fb281e5f6fae5f0bacd.js",
+    "service-worker.js": "/prueba-tecnica/service-worker.js",
+    "static/css/2.3cf5d70f.chunk.css.map": "/prueba-tecnica/static/css/2.3cf5d70f.chunk.css.map",
+    "static/css/main.5ecd60fb.chunk.css.map": "/prueba-tecnica/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.8ddaa8b2.chunk.js.LICENSE.txt": "/prueba-tecnica/static/js/2.8ddaa8b2.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3e157429.js",
+    "static/css/2.3cf5d70f.chunk.css",
+    "static/js/2.8ddaa8b2.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.4fb2f45e.chunk.js"
+  ]
+}
